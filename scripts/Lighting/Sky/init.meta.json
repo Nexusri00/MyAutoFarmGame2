@@ -1,0 +1,27 @@
+{
+  "className": "Sky",
+  "properties": {
+    "AttributesSerialize": "",
+    "Capabilities": "0",
+    "CelestialBodiesShown": true,
+    "DefinesCapabilities": false,
+    "MoonAngularSize": 11,
+    "MoonTextureContent": "\n        <uri>rbxasset://sky/moon.jpg</uri>\n      ",
+    "SerializedOverrides": "\n      ",
+    "SkyboxBackContent": "\n        <uri>rbxassetid://15294955607</uri>\n      ",
+    "SkyboxDownContent": "\n        <uri>rbxassetid://15294955569</uri>\n      ",
+    "SkyboxFrontContent": "\n        <uri>rbxassetid://15294955734</uri>\n      ",
+    "SkyboxLeftContent": "\n        <uri>rbxassetid://15294955663</uri>\n      ",
+    "SkyboxOrientation": [
+      0,
+      0,
+      0
+    ],
+    "SkyboxRightContent": "\n        <uri>rbxassetid://15294955672</uri>\n      ",
+    "SkyboxUpContent": "\n        <uri>rbxassetid://15294955675</uri>\n      ",
+    "StarCount": 3000,
+    "SunAngularSize": 21,
+    "SunTextureContent": "\n        <uri>rbxassetid://6281397906</uri>\n      ",
+    "Tags": ""
+  }
+}

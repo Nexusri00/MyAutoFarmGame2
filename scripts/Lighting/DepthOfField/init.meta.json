@@ -1,0 +1,15 @@
+{
+  "className": "DepthOfFieldEffect",
+  "properties": {
+    "AttributesSerialize": "",
+    "Capabilities": "0",
+    "DefinesCapabilities": false,
+    "Enabled": true,
+    "FarIntensity": 0.216,
+    "FocusDistance": 10.52,
+    "InFocusRadius": 46.93,
+    "NearIntensity": 0.75,
+    "SerializedOverrides": "\n      ",
+    "Tags": ""
+  }
+}

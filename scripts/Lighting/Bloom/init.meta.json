@@ -1,0 +1,14 @@
+{
+  "className": "BloomEffect",
+  "properties": {
+    "AttributesSerialize": "",
+    "Capabilities": "0",
+    "DefinesCapabilities": false,
+    "Enabled": true,
+    "Intensity": 0.15,
+    "SerializedOverrides": "\n      ",
+    "Size": 24,
+    "Tags": "",
+    "Threshold": 0.4
+  }
+}

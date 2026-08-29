@@ -1,0 +1,24 @@
+{
+  "className": "ScreenGui",
+  "properties": {
+    "AttributesSerialize": "AQAAABIAAABCZXR0ZXJTY2FsZVB1cmVGaXQDAQ==",
+    "AutoLocalize": true,
+    "Capabilities": "0",
+    "ClipToDeviceSafeArea": true,
+    "DefinesCapabilities": false,
+    "DisplayOrder": 2,
+    "Enabled": false,
+    "ResetOnSpawn": false,
+    "RootLocalizationTable": "null",
+    "SafeAreaCompatibility": "1",
+    "ScreenInsets": "1",
+    "SelectionBehaviorDown": "0",
+    "SelectionBehaviorLeft": "0",
+    "SelectionBehaviorRight": "0",
+    "SelectionBehaviorUp": "0",
+    "SelectionGroup": false,
+    "SerializedOverrides": "\n      ",
+    "Tags": "",
+    "ZIndexBehavior": "1"
+  }
+}

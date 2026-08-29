@@ -1,0 +1,45 @@
+{
+  "className": "Camera",
+  "properties": {
+    "AttributesSerialize": "",
+    "CFrame": [
+      -1580.2592,
+      36.582973,
+      1019.2886,
+      0.20366345,
+      -0.28952414,
+      0.93525237,
+      0,
+      0.955274,
+      0.29572222,
+      -0.9790409,
+      -0.060227808,
+      0.1945544
+    ],
+    "CameraSubject": "null",
+    "CameraType": "5",
+    "Capabilities": "0",
+    "DefinesCapabilities": false,
+    "FieldOfView": 68.11695,
+    "FieldOfViewMode": "2",
+    "Focus": [
+      -1591.9498,
+      32.886444,
+      1016.8566,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "HeadLocked": true,
+    "HeadScale": 1,
+    "SerializedOverrides": "\n      ",
+    "Tags": "",
+    "VRTiltAndRollEnabled": false
+  }
+}

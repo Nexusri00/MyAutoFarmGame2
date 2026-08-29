@@ -1,0 +1,13 @@
+{
+  "className": "SunRaysEffect",
+  "properties": {
+    "AttributesSerialize": "",
+    "Capabilities": "0",
+    "DefinesCapabilities": false,
+    "Enabled": true,
+    "Intensity": 0.1,
+    "SerializedOverrides": "\n      ",
+    "Spread": 0.9,
+    "Tags": ""
+  }
+}

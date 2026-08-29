@@ -1,0 +1,25 @@
+{
+  "className": "UIGradient",
+  "properties": {
+    "AttributesSerialize": "",
+    "Capabilities": "0",
+    "Color": {
+      "keypoints": {}
+    },
+    "DefinesCapabilities": false,
+    "Enabled": true,
+    "Offset": [
+      0,
+      0
+    ],
+    "Rotation": 90,
+    "Scale": 1,
+    "SerializedOverrides": "\n      ",
+    "Tags": "",
+    "TileMode": "0",
+    "Transparency": {
+      "keypoints": {}
+    },
+    "Type": "0"
+  }
+}

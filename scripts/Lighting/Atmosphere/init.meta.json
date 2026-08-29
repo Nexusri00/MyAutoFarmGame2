@@ -1,0 +1,24 @@
+{
+  "className": "Atmosphere",
+  "properties": {
+    "AttributesSerialize": "",
+    "Capabilities": "0",
+    "Color": [
+      0.4784314,
+      0.76470596,
+      0.85098046
+    ],
+    "Decay": [
+      0.41568628,
+      0.4392157,
+      0.49019608
+    ],
+    "DefinesCapabilities": false,
+    "Density": 0.3,
+    "Glare": 0,
+    "Haze": 2,
+    "Offset": 0.7,
+    "SerializedOverrides": "\n      ",
+    "Tags": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "className": "ColorCorrectionEffect",
+  "properties": {
+    "AttributesSerialize": "",
+    "Brightness": 0,
+    "Capabilities": "0",
+    "Contrast": 0.2,
+    "DefinesCapabilities": false,
+    "Enabled": true,
+    "Saturation": 0.3,
+    "SerializedOverrides": "\n      ",
+    "Tags": "",
+    "TintColor": [
+      1,
+      1,
+      1
+    ]
+  }
+}
